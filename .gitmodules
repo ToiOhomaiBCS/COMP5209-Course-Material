@@ -1,0 +1,4 @@
+[submodule "COMP5209-Teacher-Material"]
+	path = COMP5209-Teacher-Material
+	url = git@github.com:ToiOhomaiBCS/COMP5209-Teacher-Material.git
+	branch = master
