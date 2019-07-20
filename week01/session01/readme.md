@@ -53,3 +53,11 @@ Have regular meetings with your group at the same time each week at the start of
 Any roadblocks that your team has should be resolved by your scrum master and anything you cannot resolve as a group can be resolved with your tutor.
 
 We will have a session on what SCRUM is when we talk about the tools for the class.
+
+Although everyone needs to know about everything in this class as we progress through this class, to have a strong team you will need to fill these roles:
+
+* Leader
+* Research
+* Artist
+* Coder
+* Documenation Author

@@ -2,7 +2,7 @@
 course: COMP5209
 week: 03
 lesson: 01
-topic: introduction-and-setup
+topic: rich-picture-and-human-centre-design
 ---
 
 [![Print](https://img.shields.io/badge/DOWNLOAD_PDF-CLICK_HERE-green.svg)](https://github.com/ToiOhomaiBCS/COMP5209-Course-Material/raw/master/week03/session01/readme.pdf)
